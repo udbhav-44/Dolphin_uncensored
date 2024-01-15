@@ -21,16 +21,16 @@ So we present an **read-to-use** notebook so run such an LLM on Google Collab (Y
 Some results: 
 
 1.
-  ![Alt text](<Screenshot 2024-01-15 at 6.40.02 PM.png>) 
+  ![Alt text](<Results/Screenshot 2024-01-15 at 6.40.02 PM.png>) 
    Asking the same query to ChatGPT
 
 
-![Alt text](<Screenshot 2024-01-15 at 6.41.15 PM.png>)
+![Alt text](<Results/Screenshot 2024-01-15 at 6.41.15 PM.png>)
 
 2.
- ![Alt text](<Screenshot 2024-01-15 at 6.42.30 PM.png>)
+ ![Alt text](<Results/Screenshot 2024-01-15 at 6.42.30 PM.png>)
    
-![Alt text](<Screenshot 2024-01-15 at 6.43.07 PM.png>)
+![Alt text](<Results/Screenshot 2024-01-15 at 6.43.07 PM.png>)
 
 <br/>
 <br/>
